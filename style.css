@@ -1,11 +1,10 @@
 body {
   margin: 0;
   padding: 0;
-
+  color: rgb(51, 51, 103);
   font-family: "Times New Roman", serif;
   font-size: 16px;
   line-height: 200%;
-  
   
 }
 
@@ -15,7 +14,6 @@ main {
 }
 
 .site-header {
-
   width: auto;
   height: 230px;
   background: no-repeat center url('img/back.jpg');
@@ -130,9 +128,32 @@ h3 {
   font-size: 26px;
 }
 
-.repertuar {
-  display: grid;
-  grid-template-columns: 1fr 1fr 1fr;
+
+.card-list {
+  display: flex;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+  margin: 0;
+  padding: 20px;
+}
+
+.card {
+width: 350px;
+padding: 15px;
+border: 1px solid rgb(51, 51, 103);
+margin-right: 20px;
+margin-bottom: 20px;
+
+}
+
+.card:nth-child(3n) {
+  margin-right: 0;
+  }
+
+.card h2 {
+  font-size: 16px;
+  text-align: center;
+  color: rgb(51, 51, 103);
 }
 
 .truppa {
