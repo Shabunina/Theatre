@@ -92,15 +92,15 @@ margin-right: 60px;
 }
 
 .greeting {
-display:grid;
-grid-template-columns: 400px 415px 400px;
-justify-content: space-between;
+display: flex;
+flex-wrap: wrap;
+justify-content: flex-start;
 margin: 40px;
 }
 
 .studia {
   display:grid;
-  grid-template-columns: 300px 1fr 300px;
+  grid-template-columns: 200px 1fr 200px;
   justify-content: space-between;
   margin: 40px;
   gap: 30px;
@@ -110,6 +110,11 @@ margin: 40px;
 .greeting p {
 font-size: 20px;
   }
+
+.greeting-text {
+  padding: 0 40px;
+  width: 420px;
+}
 
 .about h2 {
   margin-top: 0;
