@@ -166,10 +166,15 @@ margin-bottom: 40px;
 
 }
 
+h4 {
+  margin-left: 40px;
+}
+
 .studia p {
 
   margin-top: 0;
 }
+
 
 h1 {
   font-size: 26px;
@@ -178,8 +183,8 @@ h1 {
 }
 
 h3 {
-  margin-top: 0;
-  margin-bottom: 0;
+  margin-top: 20px;
+  margin-bottom: 20px;
   margin-left: 40px;
   font-size: 1.6vw;
 
