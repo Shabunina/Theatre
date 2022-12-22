@@ -126,8 +126,8 @@ font-size: 1.4vw;
 
 .greeting {
   display:grid;
-  grid-template-columns: 280px 1fr 280px;
-  justify-content: space-between;
+  grid-template-columns: 270px 1fr 270px;
+justify-content: space-between;
   margin: 40px;
   gap: 10px;
 }
@@ -142,7 +142,7 @@ font-size: 1.4vw;
 }
 
 .greeting p {
-font-size: 1.3vw;
+font-size: 1.2vw;
   }
 
 .greeting-text {
@@ -151,7 +151,7 @@ font-size: 1.3vw;
 }
 
 .greeting-text h2 {
-  font-size: 1.4vw;
+  font-size: 1.3vw;
 
 
 }
