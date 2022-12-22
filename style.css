@@ -142,16 +142,16 @@ justify-content: space-between;
 }
 
 .greeting p {
-font-size: 1.2vw;
+font-size: 1.3vw;
   }
 
 .greeting-text {
-  padding: 0 10px;
-  text-align: center;
+  padding: 0 10px 0 0;
+  text-align:center;
 }
 
 .greeting-text h2 {
-  font-size: 1.3vw;
+  font-size: 1.4vw;
 
 
 }
@@ -267,4 +267,8 @@ margin-bottom: 20px;
 .about a {
   font-weight: bold;
   color: rgb(51, 51, 103);
+}
+
+h2 span {
+  font-size: 1.3vw;
 }
