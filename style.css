@@ -142,7 +142,7 @@ font-size: 1.4vw;
 }
 
 .greeting p {
-font-size: 1.6vw;
+font-size: 1.4vw;
   }
 
 .greeting-text {
@@ -257,3 +257,8 @@ margin-bottom: 20px;
 .bold {
   font-weight: 700;
   }
+
+.about a {
+  font-weight: bold;
+  color: rgb(51, 51, 103);
+}
