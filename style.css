@@ -150,6 +150,12 @@ font-size: 1.4vw;
   text-align: center;
 }
 
+.greeting-text h2 {
+  font-size: 1.6vw;
+
+
+}
+
 .greeting img {
 margin-bottom: 0;
 
