@@ -86,9 +86,18 @@ margin-right: 60px;
 .photos img {
   margin-top: 15px;
   margin-bottom: 0px;
+  
 }
 
+.about .photos img {
+ float: left;
 
+}
+
+.afisha h2 {
+font-size: 1.3vw;
+
+}
 
 .angela-1 {
   margin-top: 13px;
@@ -160,6 +169,10 @@ margin-bottom: 10px;
 
 }
 
+.card h2{
+font-size: 1.3vw;
+
+}
 
 .truppa {
 
