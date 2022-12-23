@@ -276,6 +276,15 @@ h2 span {
 }
 
 @media (min-width: 1200px) {
+
+  main {
+font-size: 18px;
+
+  }
+
+  .site-header {
+
+  }
   .greeting img {
     width: 330px;
   }
