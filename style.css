@@ -275,7 +275,7 @@ h2 span {
   font-size: 1.3vw;
 }
 
-@media (min-width: 768px) {
+@media (min-width: 1200px) {
   .greeting img {
     width: 330px;
   }
